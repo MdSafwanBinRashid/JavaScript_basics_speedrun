@@ -1,7 +1,11 @@
 javascript-basics-speedrun/
+
 ├── 1-basics/
+
 │   ├── 1ConsoleOutput-Comments.js
+
 │   ├── 2UserInput-In-Node.js
+
 │   ├── 3DataTypes-Variables.js
 │   ├── 4Arithmetics-TypeCoercion.js
 │   └── 5Operators-Conditions.js
