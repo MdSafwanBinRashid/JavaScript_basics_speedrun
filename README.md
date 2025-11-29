@@ -1,7 +1,8 @@
 **📁 javascript-basics-speedrun/**
 
 **basics/**
-  `1ConsoleOutput-Comments.js`  
+
+1. `1ConsoleOutput-Comments.js`  
 2. `2UserInput-In-Node.js`  
 3. `3DataTypes-Variables.js`  
 4. `4Arithmetics-TypeCoercion.js`  
