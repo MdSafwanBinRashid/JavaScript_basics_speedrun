@@ -1,4 +1,4 @@
-**📁 javascript-basics-speedrun/**
+**📁 JavaScript_basics_speedrun/**
 
 **basics/**
 
@@ -24,3 +24,5 @@
 11. `10ErrorHandling.js`  
 12. `12Map-Filter-Reduce.js`  
 13. `13thisKeyword-Promises.js`
+
+**📦 includes JSON fundamentals!**
