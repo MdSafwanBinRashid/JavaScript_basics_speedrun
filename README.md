@@ -26,4 +26,4 @@
 13. `13thisKeyword-Promises.js`
 
 
-📦 includes **JSON** fundamentals!
+📦 includes **JSON**!
