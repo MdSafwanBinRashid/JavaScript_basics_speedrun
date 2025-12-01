@@ -1,4 +1,4 @@
-**📁 JavaScript_basics_speedrun/**
+**📁 JavaScript_basics_speedrun**
 
 **basics/**
 
